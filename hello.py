@@ -1,2 +1,2 @@
 print("hello world")
-print(dede)
+print("I'm fixed!")
